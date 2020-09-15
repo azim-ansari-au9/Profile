@@ -1,2 +1,4 @@
 # Profile
-My Personal Repository
+# My Personal Repository
+-I'm currently Studying Full Stack Web Development.
+
